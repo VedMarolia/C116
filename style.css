@@ -1,0 +1,19 @@
+body{
+    background-image: url("background.jpg");
+}
+
+h2{
+    background-color: blueviolet;
+    color: bisque;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#filter_add{
+    height: 35px;;
+    border-radius: 5px;
+    background-color: firebrick;
+    font-weight: bold;
+    color: white;
+}
+
